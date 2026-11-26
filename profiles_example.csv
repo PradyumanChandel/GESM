@@ -1,0 +1,7 @@
+profile_id,age,annual_household_income,state,social_category,gender,enterprise_registered,enterprise_type,notified_area,enterprise_start_date
+P001,34,250000,Bihar,SC,Female,TRUE,Micro,FALSE,2021-06-15
+P002,28,300000,Punjab,OBC,Male,TRUE,Small,TRUE,2019-01-10
+P003,45,,Uttar Pradesh,ST,Female,,Micro,FALSE,2020-09-01
+P004,52,410000,Kerala,General,Male,FALSE,Startup,TRUE,2023-03-20
+P005,22,180000,Odisha,SC,Other,TRUE,Micro,,2022-11-05
+P006,39,290000,UP,EWS,Female,TRUE,Medium,FALSE,2018-07-30
